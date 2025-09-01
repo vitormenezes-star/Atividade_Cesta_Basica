@@ -1,2 +1,2 @@
 # Atividade_Cesta_Basica
-Pseudocódigo para monitoramento de preços da cesta básica
+Sistema de monitoramento de preços da cesta básica feito em Python.
